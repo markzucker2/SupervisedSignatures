@@ -1,0 +1,13 @@
+Package: SupervisedSignatures
+Type: Package
+Title: Supervised SV/CNV signatures (Short Title)
+Version: 0.1.0
+Author: Mark Zucker <markrz504@gmail.com>
+Maintainer: Mark Zucker <markrz504@gmail.com>
+Description: SupervisedSignatures is an R package for discovering supervised genomic scar signatures 
+             associated with genomic alterations. Rather than extracting unsupervised mutational signatures, 
+             SupervisedSignatures learns predictive genomic scar profiles for user-defined genomic states using 
+             machine learning and provides tools for interpretation, visualization, and comparison of learned signatures.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
