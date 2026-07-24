@@ -1,2 +1,2 @@
 # SupervisedSignatures
-Supervised somatic structural variant/copy number variant signatures
+SupervisedSignatures is an R package for discovering supervised genomic scar signatures associated with genomic alterations. Rather than extracting unsupervised mutational signatures, SupervisedSignatures learns predictive genomic scar profiles for user-defined genomic states using machine learning and provides tools for interpretation, visualization, and comparison of learned signatures.
